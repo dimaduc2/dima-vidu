@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  /* background-color: #282c34; */
+  
 }
 
 .App-logo {
@@ -7,16 +9,93 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  /* color: white; */
 }
 
 .App-link {
   color: #09d3ac;
 }
+
+.qua-bong-bay-ngang {
+  animation: bay-ngang 3s 5;
+}
+@keyframes bay-ngang {
+	from {
+		transform: translate(0,0);
+	}
+	to {
+		transform: translate(100px, 0);
+	}
+}
+
+.qua-bong-bay-len {
+  animation: bay-len 3s 3;
+}
+@keyframes bay-len {
+	from {
+		transform: translate(0,0);
+	}
+	to {
+		transform: translate(0,-100px);
+  }
+}
+
+.bong-binh-thuong {
+  width: 50px;
+  height: 50px;
+}
+
+.bong-to {
+  width: 100px;
+  height: 100px;
+  transition: height 3s, width 3s;
+}
+
+
+
+.qua-bong-nhay {
+  /* animation: nhay infinite 0.3s linear alternate ; */
+  animation: nhay 10 0.3s linear alternate ;
+}
+
+@keyframes nhay {
+	0% {
+		transform: translate(0,0) ;
+  }
+  80% {
+    transform: translate(0,100px) ;
+  }
+	100% {
+		transform: translate(0,100px) ;
+	}
+}
+
+.qua-bong-di-Chuyen {
+  animation: diChuyen 2 2s linear;
+}
+
+@keyframes diChuyen {
+	0% {
+		transform: translate(0,0);
+  }
+  25% {
+    transform: translate(100px,0);
+  }
+	50% {
+    transform: translate(100px,100px);
+  }
+  75% {
+		transform: translate(0, 100px);
+  }
+  100% {
+		transform: translate(0, 0);
+  }
+}
+
