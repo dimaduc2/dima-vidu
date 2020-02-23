@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/dima-vidu/static/css/main.66e329c5.chunk.css",
+    "main.js": "/dima-vidu/static/js/main.1fa3dac4.chunk.js",
+    "main.js.map": "/dima-vidu/static/js/main.1fa3dac4.chunk.js.map",
+    "runtime-main.js": "/dima-vidu/static/js/runtime-main.07333c2f.js",
+    "runtime-main.js.map": "/dima-vidu/static/js/runtime-main.07333c2f.js.map",
+    "static/css/2.7220993a.chunk.css": "/dima-vidu/static/css/2.7220993a.chunk.css",
+    "static/js/2.034a9153.chunk.js": "/dima-vidu/static/js/2.034a9153.chunk.js",
+    "static/js/2.034a9153.chunk.js.map": "/dima-vidu/static/js/2.034a9153.chunk.js.map",
+    "index.html": "/dima-vidu/index.html",
+    "precache-manifest.b538b4fa4f762e85568b14cbaa89af7a.js": "/dima-vidu/precache-manifest.b538b4fa4f762e85568b14cbaa89af7a.js",
+    "service-worker.js": "/dima-vidu/service-worker.js",
+    "static/css/2.7220993a.chunk.css.map": "/dima-vidu/static/css/2.7220993a.chunk.css.map",
+    "static/css/main.66e329c5.chunk.css.map": "/dima-vidu/static/css/main.66e329c5.chunk.css.map",
+    "static/media/Anakin_Skywalker.jpg": "/dima-vidu/static/media/Anakin_Skywalker.3d7c74ac.jpg",
+    "static/media/Anakin_Vader.jpg": "/dima-vidu/static/media/Anakin_Vader.651e34a2.jpg",
+    "static/media/Anakin_Vader_Skywalker.jpg": "/dima-vidu/static/media/Anakin_Vader_Skywalker.5cc02254.jpg",
+    "static/media/Cherish Ball.jpg": "/dima-vidu/static/media/Cherish Ball.b0b31d22.jpg",
+    "static/media/Eevee mega evolution.jpg": "/dima-vidu/static/media/Eevee mega evolution.40101279.jpg",
+    "static/media/Great Ball.jpg": "/dima-vidu/static/media/Great Ball.ad9fe204.jpg",
+    "static/media/KYLO REN VS. DARTH VADER IN REAL LIFE.jpg": "/dima-vidu/static/media/KYLO REN VS. DARTH VADER IN REAL LIFE.5c8f3d18.jpg",
+    "static/media/Obi-Wan_Kenobi_Jar_Kai.jpg": "/dima-vidu/static/media/Obi-Wan_Kenobi_Jar_Kai.a7450025.jpg",
+    "static/media/Qui_Gon_Jinn.jpg": "/dima-vidu/static/media/Qui_Gon_Jinn.5f8298d5.jpg",
+    "static/media/Siri_Tachi.jpg": "/dima-vidu/static/media/Siri_Tachi.f00ac078.jpg",
+    "static/media/Sith_Padme.jpg": "/dima-vidu/static/media/Sith_Padme.a9446d3f.jpg",
+    "static/media/Tahl.jpg": "/dima-vidu/static/media/Tahl.0430331b.jpg",
+    "static/media/semantic.min.css": "/dima-vidu/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/dima-vidu/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07333c2f.js",
+    "static/css/2.7220993a.chunk.css",
+    "static/js/2.034a9153.chunk.js",
+    "static/css/main.66e329c5.chunk.css",
+    "static/js/main.1fa3dac4.chunk.js"
+  ]
+}
